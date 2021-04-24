@@ -1,0 +1,22 @@
+.test1 {
+    color: red;
+}
+.div-class {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    padding: 15px;
+    border: dashed 10px black;
+    margin: 20px;
+  }
+
+h1 {
+    font-size: 32px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+}
+
+
